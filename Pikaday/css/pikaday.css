@@ -110,7 +110,7 @@ http://nicolasgallagher.com/micro-clearfix-hack/
 .pika-next,
 .is-rtl .pika-prev {
     float: right;
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAU0lEQVR42u3VOwoAMAgE0dwfAnNjU26bYkBCFGwfiL9VVWoO+BJ4Gf3gtsEKKoFBNTCoCAYVwaAiGNQGMUHMkjGbgjk2mIONuXo0nC8XnCf1JXgArVIZAQh5TKYAAAAASUVORK5CYII=');
+    background-image: url('data:image/png;base64,eJfyu3C6cEcug8j54MJZrnPzzHeSBDJ5dMTQ4====/a77sqwmWLyxMisqVDG74tdYAkRufyTr2RMXJv0dwrlbFSmY62/cDhI6qSXoWivReKxYyi+/arN8qd80nkulVhwGiogvPcow6m6XZ5cvcRU7iQZ7mPb6RdgbiwOADCc7yE+ewgIzaIxqAMhk7g==');
     *right: 0;
 }
 
